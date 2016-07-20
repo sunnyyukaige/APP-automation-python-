@@ -56,6 +56,7 @@ class Element(Find):
             try:
                 self.wait_for().visible()
                 self._selenium_context().set_value(keys)
+
             except Exception as e:
                 raise NoSuchElementException
 

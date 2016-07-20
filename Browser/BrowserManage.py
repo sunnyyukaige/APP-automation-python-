@@ -1,6 +1,7 @@
 import subprocess
-from Browser.Browser import Browser
 import os
+
+from Browser.Browser import Browser
 
 __author__ = 'sunny.yu2'
 
@@ -21,15 +22,15 @@ class BrowserManage:
                                             'appWaitActivity': 'com.ef.hugin.ui.activities.LoginActivity'
                                         })
 
-         elif(env=="ios"):
+             elif(env=="ios"):
                 app=os.path.abspath( os.path.join(os.path.dirname(__file__),
-                             '../../build/outputs/apk/app-dev-debug.apk'))
+                             '../Hugin.app'))
                 BrowserManage.browsers = Browser("appium", command_executor='http://127.0.0.1:4723/wd/hub',
                                         desired_capabilities={
                                             'app': app,
-                                            'platformName': 'IOS',
-                                            'platformVersion': '6.0',
-                                            'deviceName': 'test',
+                                            'platformName': 'iOS',
+                                            'platformVersion': '8.2',
+                                            'deviceName': 'iPad 2',
                                             'appWaitActivity': 'com.ef.hugin.ui.activities.LoginActivity'
                                         })
 

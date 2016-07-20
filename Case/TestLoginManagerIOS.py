@@ -13,7 +13,8 @@ class LoginManager(BaseCase):
 
    def testRun(self):
        loginPage=LoginPage()
-       loginPage.GotoManagerLogin()
+       loginPage.NotificationAcc()
+       loginPage.GotoManagerLogin('ios')
        self.loginManager('harryning','test','ios')
        basePage=BasePage()
        self.assertNotEqual(-1,basePage.getSource().find('Hi'))

@@ -7,6 +7,7 @@ class Login(BaseCase):
 
    def login(self,name,psw):
        loginPage = LoginPage()
+       loginPage.NotificationAcc()
        loginPage.Login(name,psw)
 
    def testRun(self):
