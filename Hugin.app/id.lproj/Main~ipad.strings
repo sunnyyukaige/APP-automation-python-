@@ -1,0 +1,300 @@
+
+/* Class = "UIButton"; normalTitle = "PROMOTER"; ObjectID = "0nU-Hb-hXW"; */
+"0nU-Hb-hXW.normalTitle" = "PROMOTER";
+
+/* Class = "UITextField"; placeholder = "Childs's Name/Surname"; ObjectID = "1CI-zC-h3U"; */
+"1CI-zC-h3U.placeholder" = "Nama Anak/ Nama Keluarga";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "1NF-HJ-dku"; */
+"1NF-HJ-dku.text" = "Title";
+
+/* Class = "UITableViewController"; title = "Details"; ObjectID = "1dd-Wt-MTK"; */
+"1dd-Wt-MTK.title" = "Details";
+
+/* Class = "UILabel"; text = "Please wait"; ObjectID = "1gQ-OM-er0"; */
+"1gQ-OM-er0.text" = "Mohon menunggu";
+
+/* Class = "UITextField"; placeholder = "Address"; ObjectID = "1h5-52-oGM"; */
+"1h5-52-oGM.placeholder" = "Alamat";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "2vC-W5-lf0"; */
+"2vC-W5-lf0.text" = "Subtitle";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "3zl-di-5Jk"; */
+"3zl-di-5Jk.normalTitle" = "Selanjutnya";
+
+/* Class = "UITabBarItem"; title = "CAMPAIGN"; ObjectID = "5kF-9a-gb1"; */
+"5kF-9a-gb1.title" = "CAMPAIGN";
+
+/* Class = "UIViewController"; title = "Campaign"; ObjectID = "5om-pc-jcN"; */
+"5om-pc-jcN.title" = "Campaign";
+
+/* Class = "UITextField"; placeholder = "Relation"; ObjectID = "68v-SA-zLJ"; */
+"68v-SA-zLJ.placeholder" = "Hubungan";
+
+/* Class = "UITextField"; placeholder = "Campaign Name"; ObjectID = "6LE-am-4Vk"; */
+"6LE-am-4Vk.placeholder" = "Nama Kampanye";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "7Qk-ue-5eJ"; */
+"7Qk-ue-5eJ.text" = "0";
+
+/* Class = "UIButton"; highlightedTitle = "PROMOTER"; ObjectID = "8LE-Pf-5ep"; */
+"8LE-Pf-5ep.highlightedTitle" = "PROMOTER";
+
+/* Class = "UIButton"; normalTitle = "PROMOTER"; ObjectID = "8LE-Pf-5ep"; */
+"8LE-Pf-5ep.normalTitle" = "PROMOTER";
+
+/* Class = "UIButton"; selectedTitle = "PROMOTER"; ObjectID = "8LE-Pf-5ep"; */
+"8LE-Pf-5ep.selectedTitle" = "PROMOTER";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "8PO-2N-bOf"; */
+"8PO-2N-bOf.normalTitle" = "Selanjutnya";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "9Hz-2l-JBi"; */
+"9Hz-2l-JBi.text" = "0";
+
+/* Class = "UITextField"; placeholder = "Parent's Name/Surname"; ObjectID = "Aye-3l-VVD"; */
+"Aye-3l-VVD.placeholder" = "Nama Orangtua/ Nama Keluarga";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "C6F-KG-rjd"; */
+"C6F-KG-rjd.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT AND ADD NEW"; ObjectID = "C8x-lH-sJX"; */
+"C8x-lH-sJX.normalTitle" = "Kirim dan tambah baru";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "Cml-kf-KQd"; */
+"Cml-kf-KQd.placeholder" = "Kota";
+
+/* Class = "UIButton"; normalTitle = "LEADS"; ObjectID = "FQw-ze-ebX"; */
+"FQw-ze-ebX.normalTitle" = "LEADS";
+
+/* Class = "UILabel"; text = "0/100"; ObjectID = "GcV-fD-JI8"; */
+"GcV-fD-JI8.text" = "0/100";
+
+/* Class = "UIButton"; normalTitle = "HOME"; ObjectID = "H5V-VS-q8K"; */
+"H5V-VS-q8K.normalTitle" = "Beranda";
+
+/* Class = "UITabBarItem"; title = "LEADS"; ObjectID = "Inb-0f-N6X"; */
+"Inb-0f-N6X.title" = "LEADS";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "JFo-rR-vzV"; */
+"JFo-rR-vzV.text" = "Title";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "L4O-lG-UY1"; */
+"L4O-lG-UY1.placeholder" = "Kata Sandi";
+
+/* Class = "UITextField"; text = "29394"; ObjectID = "L4O-lG-UY1"; */
+"L4O-lG-UY1.text" = "29394";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "LmD-bi-cco"; */
+"LmD-bi-cco.normalTitle" = "Kirim";
+
+/* Class = "UIButton"; normalTitle = "Mother"; ObjectID = "Lwr-aR-UrQ"; */
+"Lwr-aR-UrQ.normalTitle" = "Ibu";
+
+/* Class = "UIButton"; normalTitle = "CONFIRM"; ObjectID = "N9L-Dm-nf8"; */
+"N9L-Dm-nf8.normalTitle" = "Konfirmasi";
+
+/* Class = "UIButton"; normalTitle = "LEADS"; ObjectID = "NPb-YR-HFL"; */
+"NPb-YR-HFL.normalTitle" = "LEADS";
+
+/* Class = "UILabel"; text = "0 LEADS"; ObjectID = "OHp-qi-9Ij"; */
+"OHp-qi-9Ij.text" = "0 LEADS";
+
+/* Class = "UITableViewController"; title = "Promoter"; ObjectID = "PCQ-MS-h0f"; */
+"PCQ-MS-h0f.title" = "Promoter";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "PQF-dw-3j6"; */
+"PQF-dw-3j6.text" = "Subtitle";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT AND ADD NEW"; ObjectID = "S8Q-fA-1ST"; */
+"S8Q-fA-1ST.normalTitle" = "Kirim dan tambah baru";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "TJP-Nf-sV4"; */
+"TJP-Nf-sV4.placeholder" = "Kata Sandi";
+
+/* Class = "UITextField"; text = "29394"; ObjectID = "TJP-Nf-sV4"; */
+"TJP-Nf-sV4.text" = "29394";
+
+/* Class = "UITextField"; placeholder = "Discount"; ObjectID = "TKW-W9-JAc"; */
+"TKW-W9-JAc.placeholder" = "Discount";
+
+/* Class = "UITextField"; placeholder = "Channel Code"; ObjectID = "UDr-8M-f9e"; */
+"UDr-8M-f9e.placeholder" = "Kode Saluran";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "UIJ-lt-2eR"; */
+"UIJ-lt-2eR.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "ADD LEAD"; ObjectID = "Uhn-39-WHv"; */
+"Uhn-39-WHv.normalTitle" = "Tambah Lead";
+
+/* Class = "UILabel"; text = "Loading"; ObjectID = "UwS-9Z-Drc"; */
+"UwS-9Z-Drc.text" = "Memuat";
+
+/* Class = "UITextField"; placeholder = "Marketing Channel"; ObjectID = "W3g-EM-FUo"; */
+"W3g-EM-FUo.placeholder" = "Saluran Pemasaran";
+
+/* Class = "UILabel"; text = "❗️Error: Invalid Year of Birth. Age should be between <MIN_AGE> and <MAX_AGE>"; ObjectID = "WCg-hl-Qqx"; */
+"WCg-hl-Qqx.text" = "❗️Error: Invalid Year of Birth. Age should be between <MIN_AGE> and <MAX_AGE>";
+
+/* Class = "UITextField"; placeholder = "Campaign Manager"; ObjectID = "WPS-30-A4v"; */
+"WPS-30-A4v.placeholder" = "Manajer Kampanye";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "Y5A-7z-Fzx"; */
+"Y5A-7z-Fzx.title" = " ";
+
+/* Class = "UITextField"; placeholder = "Year of Birth"; ObjectID = "bQz-tV-wOI"; */
+"bQz-tV-wOI.placeholder" = "Tahun Kelahiran";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "bzI-pq-b1F"; */
+"bzI-pq-b1F.title" = " ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cV0-Mb-GkR"; */
+"cV0-Mb-GkR.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "HOME"; ObjectID = "dIl-4A-ceh"; */
+"dIl-4A-ceh.title" = "Beranda";
+
+/* Class = "UIButton"; normalTitle = "CONFIRM"; ObjectID = "dWF-j5-hFC"; */
+"dWF-j5-hFC.normalTitle" = "Konfirmasi";
+
+/* Class = "UIButton"; focusedTitle = "MANAGER"; ObjectID = "eyb-jF-nGd"; */
+"eyb-jF-nGd.focusedTitle" = "Manajer";
+
+/* Class = "UIButton"; highlightedTitle = "MANAGER"; ObjectID = "eyb-jF-nGd"; */
+"eyb-jF-nGd.highlightedTitle" = "Manajer";
+
+/* Class = "UIButton"; normalTitle = "MANAGER"; ObjectID = "eyb-jF-nGd"; */
+"eyb-jF-nGd.normalTitle" = "Manajer";
+
+/* Class = "UIButton"; selectedTitle = "MANAGER"; ObjectID = "eyb-jF-nGd"; */
+"eyb-jF-nGd.selectedTitle" = "Manajer";
+
+/* Class = "UITextField"; placeholder = "Age"; ObjectID = "ezS-j1-ERL"; */
+"ezS-j1-ERL.placeholder" = "Usia";
+
+/* Class = "UITextField"; placeholder = "Parent's email"; ObjectID = "fdO-oQ-7Uz"; */
+"fdO-oQ-7Uz.placeholder" = "Email Orangtua";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "fgN-S5-2Dc"; */
+"fgN-S5-2Dc.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "ADD LEAD"; ObjectID = "gXC-zV-3GA"; */
+"gXC-zV-3GA.normalTitle" = "Tambah Lead";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "glI-gL-Lph"; */
+"glI-gL-Lph.text" = "Subtitle";
+
+/* Class = "UINavigationItem"; title = "Promoter"; ObjectID = "glw-5A-qdA"; */
+"glw-5A-qdA.title" = "Promoter";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "iR7-5F-7Uw"; */
+"iR7-5F-7Uw.text" = "ATAU";
+
+/* Class = "UITextField"; placeholder = "Phone number"; ObjectID = "ifu-CE-mdd"; */
+"ifu-CE-mdd.placeholder" = "Nomor Telepon";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "jSf-i6-nCd"; */
+"jSf-i6-nCd.placeholder" = "Nama Pengguna";
+
+/* Class = "UITextField"; text = "sunny"; ObjectID = "jSf-i6-nCd"; */
+"jSf-i6-nCd.text" = "sunny";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT AND ADD NEW"; ObjectID = "k0B-8A-PAQ"; */
+"k0B-8A-PAQ.normalTitle" = "Kirim dan tambah baru";
+
+/* Class = "UILabel"; text = "UPLOADED"; ObjectID = "kXo-fu-l1y"; */
+"kXo-fu-l1y.text" = "Telah diunggah";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "lCo-Xp-hn5"; */
+"lCo-Xp-hn5.text" = "-";
+
+/* Class = "UITextField"; placeholder = "Marketing Place"; ObjectID = "lKB-d1-TNx"; */
+"lKB-d1-TNx.placeholder" = "Tempat Pemasaran";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "ljn-Dd-UPJ"; */
+"ljn-Dd-UPJ.text" = "Subtitle";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "m1f-Vx-LmT"; */
+"m1f-Vx-LmT.placeholder" = "Nama Pengguna";
+
+/* Class = "UITextField"; text = "sunny"; ObjectID = "m1f-Vx-LmT"; */
+"m1f-Vx-LmT.text" = "sunny";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "mE5-b0-geL"; */
+"mE5-b0-geL.text" = "Waktu";
+
+/* Class = "UISearchBar"; placeholder = "Search"; ObjectID = "n4b-iC-2Ce"; */
+"n4b-iC-2Ce.placeholder" = "Mencari";
+
+/* Class = "UITabBarItem"; title = "PROMOTER"; ObjectID = "nqH-7T-ZBc"; */
+"nqH-7T-ZBc.title" = "PROMOTER";
+
+/* Class = "UILabel"; text = "FAILED"; ObjectID = "o5T-du-P0Z"; */
+"o5T-du-P0Z.text" = "Gagal";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "oe4-lu-yEz"; */
+"oe4-lu-yEz.text" = "Title";
+
+/* Class = "UILabel"; text = "Promoter's Name"; ObjectID = "pHr-4n-PNr"; */
+"pHr-4n-PNr.text" = "Nama promoter";
+
+/* Class = "UISearchBar"; placeholder = "Search Promoter"; ObjectID = "qOm-1e-btQ"; */
+"qOm-1e-btQ.placeholder" = "Mencari promoter";
+
+/* Class = "UISearchBar"; qOm-1e-btQ.scopeButtonTitles[0] = "Leads number (High-Low)"; ObjectID = "qOm-1e-btQ"; */
+"qOm-1e-btQ.scopeButtonTitles[0]" = "Jumlah leads: tinggi-rendah";
+
+/* Class = "UISearchBar"; qOm-1e-btQ.scopeButtonTitles[1] = "Leads number (Low-High)"; ObjectID = "qOm-1e-btQ"; */
+"qOm-1e-btQ.scopeButtonTitles[1]" = "Jumlah leads: rendah-tinggi";
+
+/* Class = "UISearchBar"; qOm-1e-btQ.scopeButtonTitles[2] = "Promoter name (A-Z)"; ObjectID = "qOm-1e-btQ"; */
+"qOm-1e-btQ.scopeButtonTitles[2]" = "Nama promoter: A-Z";
+
+/* Class = "UISearchBar"; qOm-1e-btQ.scopeButtonTitles[3] = "Promoter name (Z-A)"; ObjectID = "qOm-1e-btQ"; */
+"qOm-1e-btQ.scopeButtonTitles[3]" = "Nama promoter: Z-A";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "rId-RE-rXt"; */
+"rId-RE-rXt.normalTitle" = "Kirim";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "rKe-eY-cAd"; */
+"rKe-eY-cAd.text" = "Detail";
+
+/* Class = "UINavigationItem"; title = "Leads"; ObjectID = "reE-fh-I6d"; */
+"reE-fh-I6d.title" = "Leads";
+
+/* Class = "UILabel"; text = "PENDING"; ObjectID = "rsn-5u-OWE"; */
+"rsn-5u-OWE.text" = "Ditunda";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "u1L-Za-YhX"; */
+"u1L-Za-YhX.text" = "Title";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "uNa-oB-cQn"; */
+"uNa-oB-cQn.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "uQv-GK-y5L"; */
+"uQv-GK-y5L.normalTitle" = "Kirim";
+
+/* Class = "UISearchBar"; placeholder = "Search Promoter"; ObjectID = "x4L-nU-u5i"; */
+"x4L-nU-u5i.placeholder" = "Mencari promoter";
+
+/* Class = "UISearchBar"; x4L-nU-u5i.scopeButtonTitles[0] = "Leads number (High-Low)"; ObjectID = "x4L-nU-u5i"; */
+"x4L-nU-u5i.scopeButtonTitles[0]" = "Jumlah leads: tinggi-rendah";
+
+/* Class = "UISearchBar"; x4L-nU-u5i.scopeButtonTitles[1] = "Leads number (Low-High)"; ObjectID = "x4L-nU-u5i"; */
+"x4L-nU-u5i.scopeButtonTitles[1]" = "Jumlah leads: rendah-tinggi";
+
+/* Class = "UISearchBar"; x4L-nU-u5i.scopeButtonTitles[2] = "Promoter name (A-Z)"; ObjectID = "x4L-nU-u5i"; */
+"x4L-nU-u5i.scopeButtonTitles[2]" = "Nama promoter: A-Z";
+
+/* Class = "UISearchBar"; x4L-nU-u5i.scopeButtonTitles[3] = "Promoter name (Z-A)"; ObjectID = "x4L-nU-u5i"; */
+"x4L-nU-u5i.scopeButtonTitles[3]" = "Nama promoter: Z-A";
+
+/* Class = "UIButton"; normalTitle = "Father"; ObjectID = "xX8-VT-Uqk"; */
+"xX8-VT-Uqk.normalTitle" = "Ayah";
+
+/* Class = "UINavigationItem"; title = "Home"; ObjectID = "yRE-9j-f9V"; */
+"yRE-9j-f9V.title" = "Beranda";
+
+/* Class = "UIButton"; normalTitle = "HOME"; ObjectID = "zhb-jj-Fxm"; */
+"zhb-jj-Fxm.normalTitle" = "Beranda";

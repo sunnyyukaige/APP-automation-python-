@@ -230,9 +230,10 @@ class Browser(Find):
         SeleniumUtils.scroll_to(self._selenium_context(), element)
 
     def scroll_down(self):
-        #SeleniumUtils.scroll_to_direction(self._selenium_context(), "Down")
+        pass
+       #SeleniumUtils.scroll_to_direction(self._selenium_context(), "Down")
 
-        self._web_driver().swipe(0,0,768,1184)
+       # self._web_driver().swipe(0,0,768,1184)
 
     def close_App(self):
         self._web_driver().close_app()

@@ -8,6 +8,7 @@ class Submit(BaseCase):
 
     def testRun(self):
         loginPage=LoginPage()
+        loginPage.NotificationAcc()
         loginPage.Login('sunny','29394','ios')
         self.homePage=HomePage()
         self.homePage.SelectMarketingPlace('ios')
