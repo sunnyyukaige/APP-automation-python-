@@ -4,10 +4,15 @@ import unittest
 import time
 from string import Formatter
 from Browser.BrowserManage import BrowserManage
+from Configs.Config import Config
+import os
 
 class BaseCase(unittest.TestCase):
 
+    config=Config.get_instance()
+
     def setUp(self):
+      self.load_config_file()
       self.basePage = BasePage()
 
     def tearDown(self):
@@ -18,4 +23,9 @@ class BaseCase(unittest.TestCase):
       browserManage= BrowserManage()
       self.browser = browserManage.clearBrowser()
 
+    def load_config_file(self):
+        config_file = self.get_relative_path("../Configs", "Configs.ini")
+        self.config.read(config_file)
 
+    def get_relative_path(self, path, file_name):
+        return os.path.join(os.path.dirname(__file__), path, file_name)

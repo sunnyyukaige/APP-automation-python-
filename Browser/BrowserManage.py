@@ -12,7 +12,8 @@ class BrowserManage:
          if BrowserManage.browsers==None:
              if(env=="Android"):
                 app=os.path.abspath( os.path.join(os.path.dirname(__file__),
-                             '../../build/outputs/apk/app-dev-debug.apk'))
+ #                            '../../build/outputs/apk/app-dev-debug.apk'))
+                                                  '../app-dev-debug.apk'))
                 BrowserManage.browsers = Browser("appium", command_executor='http://127.0.0.1:4723/wd/hub',
                                         desired_capabilities={
                                             'app': app,

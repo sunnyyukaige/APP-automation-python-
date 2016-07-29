@@ -1,9 +1,9 @@
 __author__ = 'sunny.yu2'
-from Case.BaseCase import BaseCase
+from Case.BaseCaseIOS import BaseCaseIOS
 from PageModel.HomePage import HomePage
 from PageModel.LoginPage import LoginPage
 
-class SelectMarketing(BaseCase):
+class SelectMarketing(BaseCaseIOS):
 
     def testRun(self):
         loginPage=LoginPage()
