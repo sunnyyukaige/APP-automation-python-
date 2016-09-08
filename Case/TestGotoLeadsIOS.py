@@ -8,7 +8,7 @@ class SelectMarketing(BaseCaseIOS):
     def testRun(self):
         loginPage=LoginPage()
         loginPage.NotificationAcc()
-        loginPage.Login('sunny','29394','ios')
+        loginPage.Login(BaseCaseIOS.userName,BaseCaseIOS.password,'ios')
         self.homePage=HomePage()
         self.homePage.SelectMarketingPlace('ios')
         self.homePage.AddLead('ios')

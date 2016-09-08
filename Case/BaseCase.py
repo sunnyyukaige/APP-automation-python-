@@ -8,12 +8,18 @@ from Configs.Config import Config
 import os
 
 class BaseCase(unittest.TestCase):
-
     config=Config.get_instance()
-
+    userName=''
+    password=''
+    managerName=''
+    managerPSW=''
     def setUp(self):
-      self.load_config_file()
+      cf=self.load_config_file()
       self.basePage = BasePage()
+      userName=cf.get("configuration","username")
+      password=cf.self.config.get("configuration","password")
+      managerName=cf.get("configuration","managername")
+      managerPSW=cf.get("configuration","managerpassword")
 
     def tearDown(self):
       if(self.defaultTestResult().failures):
@@ -26,6 +32,7 @@ class BaseCase(unittest.TestCase):
     def load_config_file(self):
         config_file = self.get_relative_path("../Configs", "Configs.ini")
         self.config.read(config_file)
+        return self.config
 
     def get_relative_path(self, path, file_name):
         return os.path.join(os.path.dirname(__file__), path, file_name)

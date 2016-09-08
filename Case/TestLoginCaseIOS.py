@@ -11,7 +11,7 @@ class Login(BaseCase):
        loginPage.Login(name,psw,plateform)
 
    def testRun(self):
-       self.login('sunny','29394','ios')
+       self.login(BaseCase.userName,BaseCase.password,'ios')
        basePage=BasePage()
        self.assertNotEqual(-1,basePage.getSource().find('Hi'))
 

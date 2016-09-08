@@ -2,14 +2,14 @@ __author__ = 'sunny.yu2'
 from PageModel.HomePage import HomePage
 from PageModel.LeadPage import LeadPage
 from PageModel.LoginPage import LoginPage
-from Case.BaseCase import BaseCase
+from Case.BaseCaseIOS import BaseCaseIOS
 
-class Submit(BaseCase):
+class Submit(BaseCaseIOS):
 
     def testRun(self):
         loginPage=LoginPage()
         loginPage.NotificationAcc()
-        loginPage.Login('sunny','29394','ios')
+        loginPage.Login(BaseCaseIOS.userName,BaseCaseIOS.password,'ios')
         self.homePage=HomePage()
         self.homePage.SelectMarketingPlace('ios')
         self.homePage.AddLead('ios')

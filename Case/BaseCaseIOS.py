@@ -1,12 +1,12 @@
 __author__ = 'sunny.yu2'
 from PageModel.BasePage import BasePage
-import unittest
+from Case.BaseCase import BaseCase
 import time
 from string import Formatter
 from Browser.BrowserManage import BrowserManage
 from Configs.Config import Config
 
-class BaseCase(unittest.TestCase):
+class BaseCaseIOS(BaseCase):
 
     config=Config.get_instance()
 

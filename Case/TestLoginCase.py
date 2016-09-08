@@ -10,7 +10,7 @@ class Login(BaseCase):
        loginPage.Login(name,psw)
 
    def testRun(self):
-       self.login(self.config.get("configuration","username"),self.config.get("configuration","password"))
+       self.login(BaseCase.userName,BaseCase.password)
        basePage=BasePage()
        self.assertNotEqual(-1,basePage.getSource().find('Hi'))
 

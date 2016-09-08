@@ -16,6 +16,6 @@ class LoginManager(BaseCase):
    def testRun(self):
        loginPage=LoginPage()
        loginPage.GotoManagerLogin()
-       self.loginManager(self.config.get("configuration","managername"),self.config.get("configuration","managerpassword"))
+       self.loginManager(BaseCase.managerName,BaseCase.managerPSW)
        basePage=BasePage()
        self.assertNotEqual(-1,basePage.getSource().find('Hi'))

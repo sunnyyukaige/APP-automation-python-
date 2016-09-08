@@ -8,7 +8,7 @@ class Submit(BaseCase):
 
     def testRun(self):
         loginPage=LoginPage()
-        loginPage.Login(self.config.get("configuration","username"),self.config.get("configuration","password"))
+        loginPage.Login(BaseCase.userName,BaseCase.password)
         self.homePage=HomePage()
         self.homePage.SelectMarketingPlace()
         self.homePage.AddLead()
