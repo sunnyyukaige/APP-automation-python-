@@ -1,7 +1,6 @@
 
 from configparser import ConfigParser
 
-__author__ = 'Fox'
 
 class Config(object):
     instance = None
@@ -14,6 +13,3 @@ class Config(object):
         else:
             return Config.instance
 
-    @staticmethod
-    def get_new_instance():
-        return ConfigParser()
